@@ -1,6 +1,6 @@
   DER---Biblioteca
 
-Descrição
+Descrição:
 Fiz um pequeno plano de como funcionaria um sistema de banco de dados de uma biblioteca, com entidades como Livro, Autor, Usuário, Empréstimo e Histórico.
 
 Tecnologias / Ferramentas usadas
